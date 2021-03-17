@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Differentiator (5.0.0)
+  - ESPullToRefresh (2.9.3)
+  - Kingfisher (6.1.1)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - SwiftyJSON (5.0.0)
+  - YouTubePlayer (0.7.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - ESPullToRefresh
+  - Kingfisher
+  - RxCocoa (= 6.1.0)
+  - RxDataSources (~> 5.0)
+  - RxSwift (= 6.1.0)
+  - SwiftyJSON
+  - YouTubePlayer
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - ESPullToRefresh
+    - Kingfisher
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SwiftyJSON
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  ESPullToRefresh: 0d68daa602b343c81753a1b95e09fd0bfcddfd40
+  Kingfisher: 676d63307fbef6ed5d5ed400bff36983480d7500
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YouTubePlayer: 2b5f2830d8f9b2cde942083211291e382c9e6bd5
+
+PODFILE CHECKSUM: b2c63bf508e07c1358d320cfc024dfd02cf99cbc
+
+COCOAPODS: 1.9.1

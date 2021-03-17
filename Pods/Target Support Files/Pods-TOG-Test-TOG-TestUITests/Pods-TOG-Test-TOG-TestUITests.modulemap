@@ -1,0 +1,6 @@
+framework module Pods_TOG_Test_TOG_TestUITests {
+  umbrella header "Pods-TOG-Test-TOG-TestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
